@@ -1,5 +1,5 @@
 
-## Cxeme theme for vim/nvim
+# Cxema theme for vim/nvim
 
 
 ### Simple and customisable theme that was made to work well with transparent/semitransparent backgrounds 
