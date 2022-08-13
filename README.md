@@ -11,13 +11,8 @@
 The green stuff is Visual selection
 <br>
 ![Somewhat dark bg](https://github.com/EufMuun/shitdump/blob/main/term.jpg?raw=true)
-
-#### Somewhat light bg
-
-![Somewhat light bg](https://github.com/EufMuun/shitdump/blob/main/termlight.jpg?raw=true)
-<br>  
 <br>
-
+<br>
 ## Installation
   
 Just put it in your colors folder, yo <br>

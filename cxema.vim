@@ -18,11 +18,11 @@ highlight Comment guifg=#47B3B1 guibg=NONE guisp=NONE blend=NONE gui=NONE
 
 " Constants colours
 
-highlight Constant guifg=#60EBE2 guibg=NONE guisp=NONE blend=NONE gui=NONE
-highlight Boolean guifg=#60EBE2 guibg=NONE guisp=NONE blend=NONE gui=NONE
+highlight Constant guifg=#ed4aa4 guibg=NONE guisp=NONE blend=NONE gui=NONE
+highlight Boolean guifg=#ed4aa4 guibg=NONE guisp=NONE blend=NONE gui=NONE
 highlight Character guifg=#60EBE2 guibg=NONE guisp=NONE blend=NONE gui=NONE
-highlight Number guifg=#60EBE2 guibg=NONE guisp=NONE blend=NONE gui=NONE
-highlight Float guifg=#60EBE2 guibg=NONE guisp=NONE blend=NONE gui=NONE
+highlight Number guifg=#ed4aa4 guibg=NONE guisp=NONE blend=NONE gui=NONE
+highlight Float guifg=#ed4aa4 guibg=NONE guisp=NONE blend=NONE gui=NONE
 highlight String guifg=#60EBE2 guibg=NONE guisp=NONE blend=NONE gui=NONE
 
 " Functions
