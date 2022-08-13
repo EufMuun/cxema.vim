@@ -1,11 +1,9 @@
 
 # Cxema theme for vim/nvim
 <br>
-<br>
 
 ## Simple and customisable theme that was made to work well with transparent/semitransparent backgrounds 
 <br> 
-<br>  
 
 ## Some examples on uneven semitransparent background
   
@@ -22,7 +20,7 @@ The green stuff is Visual selection
 
 ## Installation
   
-Just put it in your colors folder, yo
-(~/.config/nvim/colors) for neovim
+Just put it in your colors folder, yo <br>
+(~/.config/nvim/colors) for neovim <br>
 for vim <s>just use neovim</s>  (/usr/share/vim/)
  
