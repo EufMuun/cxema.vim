@@ -1,10 +1,8 @@
 
-
-
 set background=dark
 highlight clear
 
-
+"You can modify basically anything in here, if you need help, see :help highlight-groups 
 
 
 "Mode and cursor styling 
