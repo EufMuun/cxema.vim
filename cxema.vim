@@ -72,7 +72,7 @@ highlight Tag guifg=#FD85FF guibg=NONE guisp=NONE blend=NONE gui=NONE
 highlight Special guifg=#FA384B guibg=NONE guisp=NONE blend=NONE gui=NONE
 highlight SpecialChar guifg=#FD85FF guibg=NONE guisp=NONE blend=NONE gui=NONE
 highlight SpecialComment guifg=#FD85FF guibg=NONE guisp=NONE blend=NONE gui=NONE
-highlight Delimiter guifg=#FFB10A guibg=NONE guisp=NONE blend=NONE gui=NONE
+highlight Delimiter guifg=#FA374A guibg=NONE guisp=NONE blend=NONE gui=NONE
 highlight Debug guifg=#FA384B guibg=NONE guisp=NONE blend=NONE gui=NONE
 
 " Making a few things invisible/hard to see
@@ -87,8 +87,8 @@ highlight EndOfBuffer guifg=NONE guibg=NONE guisp=NONE blend=NONE gui=NONE
 
 highlight Directory guifg=#FFB514 guibg=#242424 guisp=NONE blend=NONE gui=NONE
 highlight Pmenu guifg=#FFB338 guibg=#242424 guisp=NONE blend=NONE gui=NONE
-highlight Question guifg=#75eb97 guibg=#26262e guisp=NONE blend=NONE gui=NONE
-highlight QuickFixLine guifg=#ffec42 guibg=#26262e guisp=NONE blend=NONE gui=NONE
+highlight Question guifg=#75EB97 guibg=#26262E guisp=NONE blend=NONE gui=NONE
+highlight QuickFixLine guifg=#FFEC42 guibg=#26262E guisp=NONE blend=NONE gui=NONE
 "highlight PMenuSel guifg=#242424 guibg=#ffb10a guisp=NONE blend=NONE gui=NONE
 "highlight PMenuSbar guifg=#b1b1c4 guibg=NONE guisp=NONE blend=NONE gui=NONE
 "highlight PmenuThumb guifg=#242424 guibg=NONE guisp=NONE blend=NONE gui=NONE
