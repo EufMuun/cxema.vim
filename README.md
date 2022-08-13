@@ -9,6 +9,7 @@
 #### Somewhat dark bg
 
 ![Somewhat dark bg](https://github.com/EufMuun/shitdump/blob/main/term.jpg?raw=true)
+The green stuff is Visual selection
 
 #### Somewhat light bg
 
