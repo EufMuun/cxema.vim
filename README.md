@@ -8,7 +8,6 @@
 ## Some examples on uneven semitransparent background
   
 #### Somewhat dark bg
-The green stuff is Visual selection
 <br>
 ![Somewhat dark bg](https://github.com/EufMuun/shitdump/blob/main/term.jpg?raw=true)
 <br>
