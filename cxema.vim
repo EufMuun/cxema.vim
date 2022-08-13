@@ -8,7 +8,7 @@ highlight clear
 "Mode and cursor styling 
 
 highlight Cursor guifg=#000000 guibg=#C43160 guisp=NONE blend=NONE gui=NONE
-highlight MatchParen guifg=#258EFF guibg=#26262E guisp=NONE blend=NONE gui=NONE
+highlight MatchParen guifg=#258EFF guibg=NONE guisp=NONE blend=NONE gui=NONE
 highlight Normal guifg=#F0F0F0 guibg=NONE guisp=NONE blend=NONE gui=NONE
 highlight Visual guifg=#75EB97 guibg=NONE guisp=NONE blend=NONE gui=NONE
 
