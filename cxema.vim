@@ -80,6 +80,7 @@ highlight ColorColumn guifg=NONE guibg=NONE guisp=NONE blend=NONE gui=NONE
 highlight CursorColumn guifg=NONE guibg=NONE guisp=NONE blend=NONE gui=NONE
 highlight CursorLine guifg=NONE guibg=NONE guisp=NONE blend=NONE gui=NONE
 highlight EndOfBuffer guifg=NONE guibg=NONE guisp=NONE blend=NONE gui=NONE
+highlight SignColumn guifg=NONE guibg=NONE guisp=NONE blend=NONE gui=NONE
 
 " Popup menu
 
